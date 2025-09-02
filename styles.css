@@ -1,0 +1,17 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+h1 { color: #4c3b23; }
+h2 { color: #333; }
+nav ul { list-style-type: none; padding: 0; }
+nav ul li { display: inline; margin-right: 15px; }
+nav ul li a { text-decoration: none; color: #4c3b23; }
+nav ul li a:hover { text-decoration: underline; }
+footer { margin-top: 20px; }
+footer a { color: #4c3b23; }
+footer a:hover { text-decoration: underline; }
+form { background-color: #f9f9f9; padding: 20px; border: 1px solid #ccc; }
+input[type="text"], input[type="email"], textarea { width: 100%; padding: 10px; margin: 5px 0; }
+input[type="submit"], input[type="reset"] { background-color: #4c3b23; color: white; padding: 10px 15px; border: none; cursor: pointer; }
+input[type="submit"]:hover, input[type="reset"]:hover { background-color: #357ABD; }
+body {
+  background-color: #ecb466; 
+}
